@@ -1,0 +1,19 @@
+logrotate state -- version 2
+"/home/caret/.cache/upstart/upstart-event-bridge.log" 2018-6-23-18:24:45
+"/home/caret/.cache/upstart/window-stack-bridge.log" 2018-6-23-18:24:45
+"/home/caret/.cache/upstart/unity-settings-daemon.log" 2018-6-23-18:24:45
+"/home/caret/.cache/upstart/hud.log" 2018-6-23-18:24:45
+"/home/caret/.cache/upstart/ssh-agent.log" 2018-6-23-18:24:45
+"/home/caret/.cache/upstart/update-notifier-crash-_var_crash__usr_sbin_aptd.0.crash.log" 2018-6-23-18:24:45
+"/home/caret/.cache/upstart/unity-gtk-module.log" 2018-6-17-19:33:33
+"/home/caret/.cache/upstart/at-spi2-registryd.log" 2018-6-23-18:24:45
+"/home/caret/.cache/upstart/gpg-agent.log" 2018-6-23-18:24:45
+"/home/caret/.cache/upstart/dbus.log" 2018-6-23-18:24:45
+"/home/caret/.cache/upstart/update-notifier-release.log" 2018-6-23-18:24:45
+"/home/caret/.cache/upstart/unity-panel-service.log" 2018-6-23-18:24:45
+"/home/caret/.cache/upstart/indicator-session.log" 2018-6-17-19:33:33
+"/home/caret/.cache/upstart/unity7.log" 2018-6-23-18:24:45
+"/home/caret/.cache/upstart/gnome-settings-daemon.log" 2018-6-23-17:43:1
+"/home/caret/.cache/upstart/gnome-keyring-ssh.log" 2018-6-23-18:24:45
+"/home/caret/.cache/upstart/bamfdaemon.log" 2018-6-23-18:24:45
+"/home/caret/.cache/upstart/indicator-sound.log" 2018-6-23-18:24:45
